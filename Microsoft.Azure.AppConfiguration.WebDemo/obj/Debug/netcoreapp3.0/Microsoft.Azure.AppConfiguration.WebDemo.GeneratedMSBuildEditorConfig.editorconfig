@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Microsoft.Azure.AppConfiguration.WebDemo
+build_property.ProjectDir = C:\_vet\_vetCode\AppConfiguration\PG-Samples\examples\DotNetCore\WebDemo\Microsoft.Azure.AppConfiguration.WebDemo\
