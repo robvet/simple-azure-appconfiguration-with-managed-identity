@@ -12,3 +12,5 @@ Will need to add following environment variable to local user secrets, prefereab
   "ConnectionStrings:AppConfig": "<connection string from Azure App Config>",
   "AppConfigEndpoint": "<Endpoint for Azure App Configuraiton>"
 }
+
+Added Azure Key Vault integration. Follow these instructions: https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-key-vault-references-dotnet-core?tabs=core5x
