@@ -14,3 +14,5 @@ Will need to add following environment variable to local user secrets, prefereab
 }
 
 Added Azure Key Vault integration. Follow these instructions: https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-key-vault-references-dotnet-core?tabs=core5x
+
+When naming keys, remember Key Vault requires a '--' to separate name parts, while App Config needs ':'. Ex: “AppSettings:Db:Password” for the App Config connection and “AppSettings–Db–Password” for Key Vault
