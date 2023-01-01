@@ -9,7 +9,8 @@
       "Microsoft.Azure.AppConfiguration.WebDemo/1.0.0": {
         "dependencies": {
           "Azure.Identity": "1.8.0",
-          "Microsoft.Azure.AppConfiguration.AspNetCore": "5.2.0"
+          "Microsoft.Azure.AppConfiguration.AspNetCore": "5.2.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.0"
         },
         "runtime": {
           "Microsoft.Azure.AppConfiguration.WebDemo.dll": {}
@@ -195,6 +196,7 @@
         }
       },
       "Microsoft.NETCore.Platforms/5.0.0": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.0": {},
       "System.Diagnostics.DiagnosticSource/4.6.0": {},
       "System.IO.FileSystem.AccessControl/5.0.0": {
         "dependencies": {
@@ -396,6 +398,13 @@
       "sha512": "sha512-VyPlqzH2wavqquTcYpkIIAQ6WdenuKoFN0BdYBbCWsclXacSOHNQn66Gt4z5NBqEYW0FAPm5rlvki9ZiCij5xQ==",
       "path": "microsoft.netcore.platforms/5.0.0",
       "hashPath": "microsoft.netcore.platforms.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gfDtAL1WhkjbRdbZlt/ZeQYCbgRpNCZCGj+yeqHObsNFRDHjq8qZJOX9AyTxJpSRYMi9SJk7JDyAbbVYRgEhAA==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.17.0",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
     },
     "System.Diagnostics.DiagnosticSource/4.6.0": {
       "type": "package",

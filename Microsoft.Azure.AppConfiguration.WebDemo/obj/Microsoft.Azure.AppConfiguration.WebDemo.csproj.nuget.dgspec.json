@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj": {}
+    "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj": {}
   },
   "projects": {
-    "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj": {
+    "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj",
+        "projectUniqueName": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj",
         "projectName": "Microsoft.Azure.AppConfiguration.WebDemo",
-        "projectPath": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj",
+        "projectPath": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj",
         "packagesPath": "C:\\Users\\robvet\\.nuget\\packages\\",
-        "outputPath": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\obj\\",
+        "outputPath": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
             "Microsoft.Azure.AppConfiguration.AspNetCore": {
               "target": "Package",
               "version": "[5.2.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
             }
           },
           "imports": [

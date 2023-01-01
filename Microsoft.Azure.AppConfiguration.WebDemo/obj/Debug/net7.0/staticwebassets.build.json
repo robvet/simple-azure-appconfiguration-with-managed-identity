@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J9oYC27icqJhxR5RrL7gEFayeYlHXKdRgLSl9uV8qJI=",
+  "Hash": "fqwqPBfR6f7BRgTfhdfxSSqs4aNnhH9zkxCXQGX6ACY=",
   "Source": "Microsoft.Azure.AppConfiguration.WebDemo",
   "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot",
       "Source": "Microsoft.Azure.AppConfiguration.WebDemo",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\css\\site.css",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\css\\site.css",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\css\\site.min.css",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\favicon.ico",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\favicon.ico",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\images\\banner1.svg",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\images\\banner1.svg",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "images/banner1.svg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner1.svg"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\images\\banner2.svg",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\images\\banner2.svg",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "images/banner2.svg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner2.svg"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\images\\banner3.svg",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\images\\banner3.svg",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "images/banner3.svg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner3.svg"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\images\\banner4.svg",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\images\\banner4.svg",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "images/banner4.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner4.svg"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\js\\site.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\js\\site.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\js\\site.min.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\js\\site.min.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "js/site.min.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.min.js"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\.bower.json",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/.bower.json",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\.bower.json"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/dist/js/npm.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\npm.js"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery\\.bower.json",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery\\.bower.json",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery/.bower.json",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\.bower.json"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation\\.bower.json",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery-validation/.bower.json",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\.bower.json"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery-validation-unobtrusive/.bower.json",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.Azure.AppConfiguration.WebDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
+      "ContentRoot": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\wwwroot\\",
       "BasePath": "_content/Microsoft.Azure.AppConfiguration.WebDemo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",

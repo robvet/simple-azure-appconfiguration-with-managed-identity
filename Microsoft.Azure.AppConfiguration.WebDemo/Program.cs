@@ -56,6 +56,10 @@ namespace Microsoft.Azure.AppConfiguration.WebDemo
                                        {
                                            // Indicates that all configuration should be refreshed when the given key has changed.
                                            refreshOptions.Register(key: "WebDemo:Sentinel", refreshAll: true);
+                                       })
+                                       .ConfigureKeyVault(kv =>
+                                       {
+                                            kv.SetCredential(new DefaultAzureCredential());
                                        });
                             });
                         }

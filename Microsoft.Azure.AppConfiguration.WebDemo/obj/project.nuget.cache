@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L2LaIGjm0T4cixRYfde2DLfiNlNtcNfuYTm8Fm6iPv+InzoRQrakLULrqOtzmWUswOMiP5XOG5pWjOVcBsy6aw==",
+  "dgSpecHash": "pqxLJOmz4QnZZ6pQ8NxK/1ACXEuggi+P+TaVIDdDDNWiYiXkKekFoF+qZQVqlt5Cr+QbwY5lpu4SJgo47gzjDA==",
   "success": true,
-  "projectFilePath": "C:\\_vet\\_vetCode\\AppConfiguration\\PG-Samples\\examples\\DotNetCore\\WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj",
+  "projectFilePath": "C:\\_vet\\_vetCode\\__demos\\appconfig-demo\\Microsoft.Azure.AppConfiguration.WebDemo\\Microsoft.Azure.AppConfiguration.WebDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robvet\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\robvet\\.nuget\\packages\\azure.data.appconfiguration\\1.2.0\\azure.data.appconfiguration.1.2.0.nupkg.sha512",
@@ -25,6 +25,7 @@
     "C:\\Users\\robvet\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.23.0\\microsoft.identity.client.extensions.msal.2.23.0.nupkg.sha512",
     "C:\\Users\\robvet\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.18.0\\microsoft.identitymodel.abstractions.6.18.0.nupkg.sha512",
     "C:\\Users\\robvet\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\robvet\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\robvet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
     "C:\\Users\\robvet\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\robvet\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Microsoft.Azure.AppConfiguration.WebDemo.props" />
-</Project>

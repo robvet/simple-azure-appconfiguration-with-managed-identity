@@ -2,5 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <NameOfLastUsedPublishProfile>C:\_vet\_vetCode\AppConfiguration\PG-Samples\examples\DotNetCore\WebDemo\Microsoft.Azure.AppConfiguration.WebDemo\Properties\PublishProfiles\app-configuration-demo-app - Zip Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <ActiveDebugProfile>Microsoft.Azure.AppConfiguration.WebDemo</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>
